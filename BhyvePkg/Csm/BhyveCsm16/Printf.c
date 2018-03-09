@@ -33,7 +33,7 @@
 #define ARGUMENT_REVERSED     BIT12
 #define COUNT_ONLY_NO_PRINT   BIT13
 
-UINTN DebugLevel = DBG_INFO;
+UINTN DebugLevel = DBG_WARN;
 
 //
 // Record date and time information
